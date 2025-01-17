@@ -1,1 +1,4 @@
-# 251_Proj_1
+Bisecting K-Means Algorithm:
+
+
+Refer the pdf file above for the working details
